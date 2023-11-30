@@ -1,0 +1,16 @@
+.allBtn{
+    position: absolute;
+    border: 3px;
+    top: 50%;
+    left: 50%;
+}
+
+.allBtn button:hover{
+    background-color: red;
+}
+
+button{
+
+    border-radius: 2px;
+    padding: 32px;
+}
